@@ -1,0 +1,53 @@
+#titulo {
+    color:tomato;
+}
+p.texto {
+    color:blue;
+}
+
+p.especial {color:mediumaquamarine;
+}
+
+div p {
+    color:aquamarine;
+}
+
+div h2, div h3 {
+    color:brown;
+}
+
+*{
+    font-size: 24px;
+    color:black;/* esto es un comentario*/
+    }
+
+/* esto es un comentario*/ 
+/*.color {
+    color: #ff0000;
+}/*
+.color {
+    color: rgb(0,255,145);
+    }
+/* esto es un comentario*/
+
+.color {
+    /* border: 5px red outset; */
+    
+
+/* bordes mas comunes 
+dotted
+dashed
+solid
+double
+groove
+ridge
+inset
+outse
+none
+hidden
+*/
+border-style: solid;
+border-color:blue;
+border-radius: 5px;
+border-width: 150;
+}
